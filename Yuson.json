@@ -1,0 +1,31 @@
+{
+    "users": [{
+            "password": "12345",
+            "type": "Organizer",
+            "username": "kesiah"
+        }, {
+            "password": "12345",
+            "type": "Organizer",
+            "username": "Reyian"
+        }, {
+            "password": "12345",
+            "type": "Organizer",
+            "username": "Matthew"
+        }, {
+            "password": "12345",
+            "type": "User",
+            "username": "Mets"
+        }, {
+            "password": "12345",
+            "type": "User",
+            "username": "Quinn"
+        }, {
+            "password": "12345",
+            "type": "User",
+            "username": "Adriane"
+        }, {
+            "password": "12345",
+            "type": "User",
+            "username": "Tans"
+        }]
+}
